@@ -1,0 +1,17 @@
+{
+    "marketplace_prod":{
+        "host":"localhost",
+        "db":"marketplace_prod",
+        "user":"postgres",
+        "password":"123",
+        "port":"5432"
+    },
+    "dwh_migration":{
+        "host":"localhost",
+        "db":"dwh_migration",
+        "user":"postgres",
+        "password":"123",
+        "port":"5432"
+    }
+
+}
